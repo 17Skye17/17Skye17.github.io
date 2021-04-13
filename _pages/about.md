@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-No hear, no speak, no see, no evil.
+No right, no wrong, no rules.
